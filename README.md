@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Tableau, PowerBI, and R.<br>
+I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Tableau, PowerBI, and R.<br>
 <ul>
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
