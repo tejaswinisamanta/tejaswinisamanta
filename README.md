@@ -6,11 +6,11 @@
 
 Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Tableau, PowerBI, and R.<br>
 <ul>
-<list>SQL : Proficient in querying and manipulating data with SQL.</list>
-<list>Python : Utilizes Python for data wrangling and advanced analytics.</list>
-<list>Excel : Generates reports and performs data analysis using MS Excel.</list>
-<list>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.</list>
-<list>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</list></ul>
+<li>SQL : Proficient in querying and manipulating data with SQL.</li>
+<li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
+<li>Excel : Generates reports and performs data analysis using MS Excel.</li>
+<li>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.</li>
+<li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</li></ul>
 
 <h3>⚙️Tools</h3>
 <ul>
