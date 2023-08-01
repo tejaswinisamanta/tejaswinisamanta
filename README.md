@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Purple%20Playful%20Good%20Day%20Quotes%20Desktop%20Wallpaper.png">
+<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Purple%20Playful%20Good%20Day%20Quotes%20Desktop%20Wallpaper%20(2).png">
 
 
 
