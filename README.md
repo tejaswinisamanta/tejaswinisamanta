@@ -5,12 +5,16 @@
 
 
 Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Tableau, PowerBI, and R.<br>
-. SQL Guru: Proficient in querying and manipulating data with SQL.<br>
+<list>. SQL Guru: Proficient in querying and manipulating data with SQL.<br>
 . Excel Wizard: Generates reports and performs data analysis using MS Excel.<br>
 . Python Whiz: Utilizes Python for data wrangling and advanced analytics.<br>
 . Tableau and Power BI Pro: Develops interactive dashboards using Tableau and Power BI.<br>
-. R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.<br>
+. R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.<br></list>
 
+<h6>⚙️Tools</h6>
+<list></list>Language: SQL, Python
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau, Looker Studio</list>
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
