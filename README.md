@@ -1,4 +1,4 @@
-### Hi there 👋 Introducing myself 💁‍♀️
+### Hi there 👋 Introducing myself 😁
 
 <img width="2000" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Black%20Technology%20LinkedIn%20Banner%20(4).png">
 
