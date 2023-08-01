@@ -17,6 +17,14 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 <li>Language: SQL, Python</li>
 <li>Database: PostgreSQL, MySQL</li>
 <li>Visualization: Tableau, Power BI</li></ul>
+
+'''SQL
+  SELECT S.customer_id,SUM(M.price) AS total_amnt
+FROM sales S
+JOIN menu M ON S.product_id=M.product_id
+GROUP BY S.customer_id
+ORDER BY customer_id
+'''
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
