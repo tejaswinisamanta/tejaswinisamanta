@@ -12,7 +12,7 @@ Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in S
 . R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.<br></list>
 
 <h6>⚙️Tools</h6>
-<list></list>Language: SQL, Python
+<list>Language: SQL, Python
 Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker Studio</list>
 <!--
