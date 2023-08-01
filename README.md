@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+add Right Gif Image
+(img align="right" alt="Coding" width="400" src="Purple Playful Good Day Quotes Desktop Wallpaper.png")
+
+
 ITS ME MARIYA
 
 <!--
