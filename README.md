@@ -12,9 +12,10 @@ Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in S
 . R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.<br></list>
 
 <h3>⚙️Tools</h3>
-<ul>.Language: SQL, Python<br>
-.Database: PostgreSQL, MySQL<br>
-.Visualization: Tableau, Power BI</ul><br>
+<ul>
+<li></li>.Language: SQL, Python</li>
+<li></li>Database: PostgreSQL, MySQL</li>
+<li></li>Visualization: Tableau, Power BI</li></ul>
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
