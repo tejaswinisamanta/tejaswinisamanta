@@ -11,10 +11,10 @@ Hello, I'm Mariya Joseph, a passionate Data Analyst with an array of skills in S
 . Tableau and Power BI Pro: Develops interactive dashboards using Tableau and Power BI.<br>
 . R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.<br></list>
 
-<h6>⚙️Tools</h6>
-<list>Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, Looker Studio</list>
+<h2>⚙️Tools</h2>
+<list>Language: SQL, Python<br>
+Database: Google BigQuery, PostgreSQL, MySQL<br>
+Visualization: Tableau, Looker Studio</list><br>
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
