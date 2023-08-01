@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Purple%20Playful%20Good%20Day%20Quotes%20Desktop%20Wallpaper.png")
+<img align="right" alt="Coding" width="400" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Purple%20Playful%20Good%20Day%20Quotes%20Desktop%20Wallpaper.png">
+
 
 
 ITS ME MARIYA
