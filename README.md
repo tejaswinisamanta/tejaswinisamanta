@@ -12,7 +12,7 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 <li>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.</li>
 <li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</li></ul>
 
-<h3>⚙️Tools</h3>
+<h3>⚙️Skills</h3>
 <ul>
 <li>Language: SQL, Python</li>
 <li>Database: PostgreSQL, MySQL</li>
