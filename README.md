@@ -18,6 +18,9 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 <li>Database: PostgreSQL, MySQL</li>
 <li>Visualization: Power BI, Tableau</li></ul>
 
+<h3>🖇️ Projects</h3>
+<p>Check out my project portfolio: <a href="https://github.com/Mariyajoseph24/Portfolio_Mariya_Joseph">My Projects</a></p>
+
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
