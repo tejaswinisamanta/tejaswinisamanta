@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="2000" alt="Coding" src="https://github.com/tejaswinisamanta/tejaswinisamanta/blob/main/Black%20Technology%20LinkedIn%20Banner%20(5).png">
+<img width="2000" alt="Coding" src="https://github.com/tejaswinisamanta/tejaswinisamanta/blob/main/Black%20Tecnology%20LinkedIn%20Banner%20(5).png">
 
 
 
