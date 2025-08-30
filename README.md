@@ -1,10 +1,10 @@
-### Hi there 👋 Introducing myself,
+### Hi there 👋
 
-<img width="2000" alt="Coding" src="https://github.com/Mariyajoseph24/Mariyajoseph24/blob/main/Black%20Technology%20LinkedIn%20Banner%20(5).png">
+<img width="2000" alt="Coding" src="https://github.com/tejaswinisamanta/tejaswinisamanta/blob/main/Black%20Technology%20LinkedIn%20Banner%20(5).png">
 
 
 
-I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau, and R.<br>
+I'm Tejaswini Samanta, a passionate Data Science and Machine Learning student with an array of skills in Python, SQL, MS Excel, HTML/CSS, JavaScript, Power BI, Tableau, and R.<br>
 <ul>
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
@@ -21,23 +21,9 @@ I'm Mariya Joseph, a passionate Data Analyst with an array of skills in SQL, MS 
 
 <h3>🖇️Projects</h3>
 <ul>
-<li><p>Check out my Project Portfolio: <a href="https://github.com/Mariyajoseph24/Portfolio_Mariya_Joseph">My Projects</a></p></li></ul>
+<li><p>Check out my Project Portfolio: <a href="https://tejaswinisamanta.github.io/">My Projects</a></p></li></ul>
 
 <h3>🕸️Let's Connect</h3>
 <ul>
- <li><a href="https://www.linkedin.com/in/mariya-jos/">Linkedln | Mariya Joseph</a><br></li>
+ <li><a href="https://www.linkedin.com/in/tejaswini-samanta/">Linkedln | Tejaswini Samanta</a><br></li>
 </ul>
-<!--
-**Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...SOMETHING FISHYY
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
