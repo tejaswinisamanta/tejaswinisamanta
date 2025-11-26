@@ -10,7 +10,7 @@ I'm Tejaswini Samanta, a passionate Data Science and Machine Learning student wi
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Excel : Generates reports and performs data analysis using MS Excel.</li>
 <li>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.</li>
-<li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</li></ul>
+<li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</li>
 <li>C :  Solving and understanding data structures and algorithms in computer science.</li>
 </ul>
 
