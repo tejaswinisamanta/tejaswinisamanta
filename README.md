@@ -1,5 +1,5 @@
 
-I like Data Science and Machine Learning <br>
+I like data science and machine learning <br>
 I have an array of skills in Python, SQL, R, C, C++, MS Excel, HTML/CSS, JavaScript, Power BI, Tableau Mathematic and LaTeXa.<br>
 
 <h3>🖇️Projects</h3>
