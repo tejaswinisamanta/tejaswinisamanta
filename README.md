@@ -1,6 +1,6 @@
 
 I like data science and machine learning <br>
-I have an array of skills in Python, SQL, R, C, C++, MS Excel, HTML/CSS, JavaScript, Power BI, Tableau Mathematic and LaTeXa.<br>
+I have an array of skills in Python, SQL, R, C, C++, MS Excel, HTML/CSS, JavaScript, Power BI, Tableau, Mathematica and LaTeX.<br>
 
 <h3>🖇️Projects</h3>
 <ul>
